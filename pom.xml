@@ -1,0 +1,8 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>ai2019</groupId>
+  <artifactId>group55</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies> <dependency> <groupId>genius</groupId> <artifactId>gui</artifactId> <version>8.0.4</version> </dependency> </dependencies>
+<repositories> <repository> <id>artifactory.ewi.tudelft.nl</id> <url>http://artifactory.ewi.tudelft.nl/artifactory/libs-release</url> </repository> <repository> <id>netbeans</id> <name>Netbeans rep</name> <url>http://bits.netbeans.org/maven2/</url> </repository> </repositories>
+</project>
